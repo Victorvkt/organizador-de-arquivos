@@ -37,7 +37,7 @@ Após a execução, dentro da pasta escolhida, será criada a seguinte estrutura
 
 🚀 Como executar
 1. Clonar este repositório
-git clone https://github.com/seuusuario/organizador-arquivos.git
+git clone https://github.com/Victorvkt/organizador-de-arquivos
 cd organizador-arquivos
 
 2. Criar ambiente virtual (opcional, mas recomendado)
